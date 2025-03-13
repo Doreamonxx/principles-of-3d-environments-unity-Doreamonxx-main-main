@@ -222,31 +222,31 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalScale.x
-      value: 6.1148705
+      value: 6.925702
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.8562081
+      value: 2.1023412
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalScale.z
-      value: 10.914743
+      value: 12.362038
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -37.7
+      value: -37.67
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.74
+      value: 9.7015
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -21.63
+      value: -21.98
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.72862595
+      value: 0.7445628
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalRotation.x
@@ -254,7 +254,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.6849119
+      value: 0.6675525
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalRotation.z
@@ -266,12 +266,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 86.457
+      value: 83.757
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_Name
       value: Block_Rock_5 (1)
@@ -410,6 +414,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (4)
@@ -479,6 +487,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (5)
@@ -617,6 +629,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (10)
@@ -686,6 +702,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -49.017
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dd0d971a62152b440b194f2da037d7f4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: dd0d971a62152b440b194f2da037d7f4, type: 3}
       propertyPath: m_Name
       value: Block_Snow_Rock_16
@@ -807,7 +827,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: ee8af93f6543af1418cb59d1c38e78be, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -897,6 +917,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb8cc1d727af6e14ab2449668683f343, type: 2}
     - target: {fileID: 919132149155446097, guid: dc2285a4a86ce134c88e8c42ba7cfd64, type: 3}
       propertyPath: m_Name
       value: Block_Rock_5
@@ -1092,6 +1116,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (11)
@@ -1161,6 +1189,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (12)
@@ -1230,6 +1262,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -40.938
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4cb5f99797f35b0459f2a6f95db5c8d2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 41b973d990ff1c748a4f9a7c29998342, type: 2}
     - target: {fileID: 919132149155446097, guid: 4cb5f99797f35b0459f2a6f95db5c8d2, type: 3}
       propertyPath: m_Name
       value: Block_Rock_6
@@ -1299,6 +1335,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 80.502
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9e41f55123438b549ad1c0efcf269853, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1876a772565f241988898164db0dcbfc, type: 2}
     - target: {fileID: 919132149155446097, guid: 9e41f55123438b549ad1c0efcf269853, type: 3}
       propertyPath: m_Name
       value: Block_Rock_15 (1)
@@ -1454,6 +1494,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7310140684582838640, guid: 7b5a098d913a3c74692a2a9963dbd3ba, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 82b3a75aca7ed6f4abe443d8019d9ddb, type: 2}
     - target: {fileID: 100000, guid: 7b5a098d913a3c74692a2a9963dbd3ba, type: 3}
       propertyPath: m_Name
       value: Bush_03
@@ -1546,6 +1590,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -3.151
       objectReference: {fileID: 0}
+    - target: {fileID: 2017368775058846020, guid: 7b5a098d913a3c74692a2a9963dbd3ba, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 82b3a75aca7ed6f4abe443d8019d9ddb, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -1713,7 +1761,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 82b3a75aca7ed6f4abe443d8019d9ddb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1936,7 +1984,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 82b3a75aca7ed6f4abe443d8019d9ddb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2026,6 +2074,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (13)
@@ -2095,6 +2147,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 759f0740a4cb77047931846c47ae6924, type: 2}
     - target: {fileID: 919132149155446097, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
       propertyPath: m_Name
       value: Block_Moss_Rock_5 (4)
@@ -2317,6 +2373,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7125679602227707755, guid: d8ea93d2d4757e444a5349f4bc849128, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ee8af93f6543af1418cb59d1c38e78be, type: 2}
     - target: {fileID: 100000, guid: d8ea93d2d4757e444a5349f4bc849128, type: 3}
       propertyPath: m_Name
       value: Bush_01
@@ -2470,6 +2530,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (6)
@@ -2539,6 +2603,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e5d67f03a93af54785c47250ad3f032, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 41b973d990ff1c748a4f9a7c29998342, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e5d67f03a93af54785c47250ad3f032, type: 3}
       propertyPath: m_Name
       value: Block_Snow_Rock_24
@@ -2608,6 +2676,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 759f0740a4cb77047931846c47ae6924, type: 2}
     - target: {fileID: 919132149155446097, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
       propertyPath: m_Name
       value: Block_Moss_Rock_5
@@ -2945,6 +3017,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (3)
@@ -3017,7 +3093,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: ca23fdf61fd743b489c80202311ef6aa, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 93caadf4359ae8143aad35b3145d31af, type: 2}
+      objectReference: {fileID: 2100000, guid: ee8af93f6543af1418cb59d1c38e78be, type: 2}
     - target: {fileID: 919132149155446097, guid: ca23fdf61fd743b489c80202311ef6aa, type: 3}
       propertyPath: m_Name
       value: Cloud_02
@@ -3087,6 +3163,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (2)
@@ -3156,6 +3236,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (1)
@@ -3225,6 +3309,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bfff06aaff363a847ad37bf592364e6b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 98e54928fe3fa4cb2bb3a5601a951dac, type: 2}
     - target: {fileID: 919132149155446097, guid: bfff06aaff363a847ad37bf592364e6b, type: 3}
       propertyPath: m_Name
       value: Ramp_100x100x200_Mesh
@@ -3294,6 +3382,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 89.361
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9e41f55123438b549ad1c0efcf269853, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b212d6d3e65f24a41a49b9361880e85f, type: 2}
     - target: {fileID: 919132149155446097, guid: 9e41f55123438b549ad1c0efcf269853, type: 3}
       propertyPath: m_Name
       value: Block_Rock_15
@@ -3572,6 +3664,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9148325724477660143, guid: 6c7eaede4efc960409fb9ef2dfb77f29, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 865b305109e555749a4c8609b545998d, type: 2}
     - target: {fileID: 100000, guid: 6c7eaede4efc960409fb9ef2dfb77f29, type: 3}
       propertyPath: m_Name
       value: Tree_01
@@ -3681,6 +3777,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (8)
@@ -3814,7 +3914,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 82b3a75aca7ed6f4abe443d8019d9ddb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3961,6 +4061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1
@@ -4138,6 +4242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (7)
@@ -4211,6 +4319,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 5.511
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 5528351815fd4c04abf537f22c7e18f1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 865b305109e555749a4c8609b545998d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4276,6 +4388,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 077530e0b0a9273408ae4d17c1a1af03, type: 2}
     - target: {fileID: 919132149155446097, guid: 926008df0d2ff0749baa2d80cac567b5, type: 3}
       propertyPath: m_Name
       value: Stonehenge_Rock_1 (9)
@@ -4345,6 +4461,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 759f0740a4cb77047931846c47ae6924, type: 2}
     - target: {fileID: 919132149155446097, guid: cdb980c7ab7f61747b9402d7e492c66d, type: 3}
       propertyPath: m_Name
       value: Block_Moss_Rock_5 (8)
