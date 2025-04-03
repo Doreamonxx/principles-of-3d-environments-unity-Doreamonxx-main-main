@@ -8154,7 +8154,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!65 &1928457993
 --- !u!114 &1928457994
 MonoBehaviour:
   m_ObjectHideFlags: 0
